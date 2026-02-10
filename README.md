@@ -10,7 +10,6 @@ Atualmente, estou mergulhado no universo dos dados, migrando de [Sua Área Anter
 
 **Análise & Visualização de Dados**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Linguagens & Banco de Dados**
@@ -38,7 +37,7 @@ Para um analista, os números falam mais que palavras. Aqui está o desempenho d
 ### 🚀 O que estou estudando agora?
 
 - [ ] Aperfeiçoamento em **Linguagem DAX** e **M** para Power BI.
-- [ ] Modelagem de dados avançada (Star Schema / Snowflake).
+- [ ] Aperfeiçoamento de código e modelagem em SQL
 - [ ] Automação de processos com **Python (Pandas/NumPy)**.
 - [ ] Storytelling com Dados e Dashboards de alto impacto.
 
@@ -48,9 +47,7 @@ Para um analista, os números falam mais que palavras. Aqui está o desempenho d
 
 Sinta-se à vontade para explorar meus repositórios de projetos de BI e me chamar para um café (virtual ou real)!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://[SEU-SITE-OU-PORTFOLIO])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/custodio-viana/)
 
 ---
 *“Sem dados, você é apenas mais uma pessoa com uma opinião.” – W. Edwards Deming*
