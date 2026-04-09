@@ -36,8 +36,8 @@ Para um analista, os números falam mais que palavras. Aqui está o desempenho d
 
 ### 🚀 O que estou estudando agora?
 
-- [ ] Aperfeiçoamento em **Linguagem DAX** e **M** para Power BI.
-- [ ] Aperfeiçoamento de código e modelagem em SQL
+- [x ] Aperfeiçoamento em **Linguagem DAX** e **M** para Power BI.
+- [x ] Aperfeiçoamento de código e modelagem em SQL
 - [ ] Automação de processos com **Python (Pandas/NumPy)**.
 - [ ] Storytelling com Dados e Dashboards de alto impacto.
 
